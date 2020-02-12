@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iekaemaiv.earthfrequencies.org/sitemap.xml
